@@ -1,0 +1,27 @@
+{
+  "name": "radiocoes-landing",
+  "version": "1.0.0",
+  "description": "Landing page profesional para Radiocoes - Alquiler de radioteléfonos Motorola",
+  "keywords": [
+    "radiocomunicación",
+    "motorola",
+    "landing page",
+    "radiocoes",
+    "colombia"
+  ],
+  "author": "Gladis",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server 8000 || npx http-server",
+    "test": "echo \"No tests configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/radiocoes.git"
+  },
+  "homepage": "https://radiocoes.com",
+  "bugs": {
+    "url": "https://github.com/usuario/radiocoes/issues"
+  }
+}
