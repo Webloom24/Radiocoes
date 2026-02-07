@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://radiocoes.com/sitemap.xml
